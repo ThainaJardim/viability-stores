@@ -1,0 +1,1062 @@
+[
+  { "cep": "1801328", "stores": [] },
+  { "cep": "71615005", "stores": [] },
+  {
+    "cep": "11045002",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Bartolomeu de Gusmão", "id": 961 },
+      { "name": "São Vicente Itararé", "id": 1081 },
+      { "name": "Conselheiro Nébias", "id": 1898 },
+      { "name": "Epitácio Pessoa", "id": 741 }
+    ]
+  },
+  {
+    "cep": "03338020",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Tatuapé", "id": 221 },
+      { "name": "Anália Franco", "id": 1061 }
+    ]
+  },
+  {
+    "cep": "01402901",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Jd Paulista", "id": 61 }
+    ]
+  },
+  {
+    "cep": "03342000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Tatuapé", "id": 221 },
+      { "name": "Anália Franco", "id": 1061 }
+    ]
+  },
+  {
+    "cep": "60040620",
+    "stores": [
+      { "name": "São João", "id": 521 },
+      { "name": "Fátima", "id": 1790 }
+    ]
+  },
+  {
+    "cep": "03342000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Tatuapé", "id": 221 },
+      { "name": "Anália Franco", "id": 1061 }
+    ]
+  },
+  {
+    "cep": "11320000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Bartolomeu de Gusmão", "id": 961 },
+      { "name": "José Menino", "id": 1913 },
+      { "name": "São Vicente Itararé", "id": 1081 }
+    ]
+  },
+  {
+    "cep": "74230010",
+    "stores": [
+      { "name": "Flamboyant", "id": 1569 },
+      { "name": "Vaca Brava", "id": 601 }
+    ]
+  },
+  {
+    "cep": "64049010",
+    "stores": [
+      { "name": "São Cristovão", "id": 1101 },
+      { "name": "DOM SEVERINO", "id": 1893 },
+      { "name": "Frei Serafim I", "id": 1896 }
+    ]
+  },
+  {
+    "cep": "79032210",
+    "stores": [{ "name": "Carandá Bosque", "id": 1203 }]
+  },
+  {
+    "cep": "04556500",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Padre Antônio", "id": 1889 },
+      { "name": "Santo Amaro", "id": 1791 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Brooklin", "id": 1895 },
+      { "name": "Vieira de Morais", "id": 1910 }
+    ]
+  },
+  {
+    "cep": "54410070",
+    "stores": [
+      { "name": "DARKSTORE PA PE", "id": 1973 },
+      { "name": "Piedade", "id": 622 }
+    ]
+  },
+  {
+    "cep": "64001020",
+    "stores": [
+      { "name": "São Cristovão", "id": 1101 },
+      { "name": "DOM SEVERINO", "id": 1893 },
+      { "name": "Frei Serafim I", "id": 1896 }
+    ]
+  },
+  {
+    "cep": "13270600",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Valinhos", "id": 881 }
+    ]
+  },
+  {
+    "cep": "70381515",
+    "stores": [
+      { "name": "MINI CD P.A DF", "id": 1950 },
+      { "name": "Lago Sul", "id": 1141 },
+      { "name": "L2 SUL", "id": 1920 },
+      { "name": "W3", "id": 1870 }
+    ]
+  },
+  {
+    "cep": "14025230",
+    "stores": [
+      { "name": "Nova Aliança", "id": 1832 },
+      { "name": "Ribeirão Preto Independência", "id": 26 },
+      { "name": "Ribeirão Preto Fiúsa", "id": 1829 }
+    ]
+  },
+  {
+    "cep": "14804300",
+    "stores": [{ "name": "Araraquara", "id": 1525 }]
+  },
+  {
+    "cep": "13309050",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Itú", "id": 23 }
+    ]
+  },
+  { "cep": "49025750", "stores": [{ "name": "Jardins", "id": 1204 }] },
+  {
+    "cep": "12242000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Aquarius", "id": 1833 },
+      { "name": "S.J.C. Shopping", "id": 1041 }
+    ]
+  },
+  {
+    "cep": "01222010",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "CD", "id": 501 },
+      { "name": "Angélica", "id": 1689 },
+      { "name": "MARIA ANTONIA", "id": 1926 }
+    ]
+  },
+  {
+    "cep": "01401002",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Jd Paulista", "id": 61 }
+    ]
+  },
+  {
+    "cep": "04010000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Afonso Bráz", "id": 1831 },
+      { "name": "Ana Rosa", "id": 1161 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Lavandisca", "id": 1801 },
+      { "name": "Vila Clementino", "id": 63 },
+      { "name": "Planalto Paulista", "id": 1609 },
+      { "name": "Ibirapuera", "id": 1364 }
+    ]
+  },
+  {
+    "cep": "01489900",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Shopping Iguatemi", "id": 1769 },
+      { "name": "Minuto Faria Lima", "id": 2149 }
+    ]
+  },
+  {
+    "cep": "60150160",
+    "stores": [
+      { "name": "São João", "id": 521 },
+      { "name": "Center Um", "id": 1911 },
+      { "name": "Fátima", "id": 1790 }
+    ]
+  },
+  {
+    "cep": "05461010",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "CD", "id": 501 },
+      { "name": "Pç. Panamericana I Umburanas", "id": 841 }
+    ]
+  },
+  {
+    "cep": "13209011",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Jundiaí", "id": 781 }
+    ]
+  },
+  {
+    "cep": "01410002",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Jd Paulistano Gabriel Monteiro", "id": 101 },
+      { "name": "MARIA ANTONIA", "id": 1926 }
+    ]
+  },
+  {
+    "cep": "06454010",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Alphaville", "id": 1804 }
+    ]
+  },
+  {
+    "cep": "04702000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Santo Amaro", "id": 1791 },
+      { "name": "Brooklin", "id": 1895 },
+      { "name": "Vieira de Morais", "id": 1910 }
+    ]
+  },
+  {
+    "cep": "74810030",
+    "stores": [
+      { "name": "Flamboyant", "id": 1569 },
+      { "name": "Vaca Brava", "id": 601 }
+    ]
+  },
+  {
+    "cep": "05641020",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Shopping Jd. Sul", "id": 761 },
+      { "name": "Panamby", "id": 1912 },
+      { "name": "Portal", "id": 1890 }
+    ]
+  },
+  {
+    "cep": "71505000",
+    "stores": [
+      { "name": "MINI CD P.A DF", "id": 1950 },
+      { "name": "Lago Norte", "id": 1589 }
+    ]
+  },
+  {
+    "cep": "70297400",
+    "stores": [
+      { "name": "MINI CD P.A DF", "id": 1950 },
+      { "name": "L2 SUL", "id": 1920 },
+      { "name": "W3", "id": 1870 }
+    ]
+  },
+  {
+    "cep": "38411106",
+    "stores": [{ "name": "Uberlândia", "id": 1202 }]
+  },
+  { "cep": "12606050", "stores": [{ "name": "Lorena", "id": 1529 }] },
+  {
+    "cep": "60175650",
+    "stores": [
+      { "name": "Center Um", "id": 1911 },
+      { "name": "Cocó", "id": 1789 },
+      { "name": "Mucuripe", "id": 1122 }
+    ]
+  },
+  { "cep": "16015460", "stores": [{ "name": "Araçatuba", "id": 1527 }] },
+  {
+    "cep": "60165080",
+    "stores": [
+      { "name": "São João", "id": 521 },
+      { "name": "Fátima", "id": 1790 }
+    ]
+  },
+  {
+    "cep": "60165081",
+    "stores": [
+      { "name": "São João", "id": 521 },
+      { "name": "Fátima", "id": 1790 }
+    ]
+  },
+  {
+    "cep": "06543001",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Tamboré   ", "id": 21 }
+    ]
+  },
+  {
+    "cep": "05013000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "CD", "id": 501 },
+      { "name": "Cardoso de Almeida", "id": 201 },
+      { "name": "MARIA ANTONIA", "id": 1926 }
+    ]
+  },
+  {
+    "cep": "12460000",
+    "stores": [{ "name": "Campos do Jordão", "id": 1042 }]
+  },
+  {
+    "cep": "01228100",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "CD", "id": 501 },
+      { "name": "Angélica", "id": 1689 },
+      { "name": "MARIA ANTONIA", "id": 1926 }
+    ]
+  },
+  { "cep": "58040000", "stores": [] },
+  {
+    "cep": "12031180",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Taubaté Independência", "id": 1384 }
+    ]
+  },
+  {
+    "cep": "01441001",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Jd Paulistano Gabriel Monteiro", "id": 101 },
+      { "name": "Minuto Faria Lima", "id": 2149 }
+    ]
+  },
+  {
+    "cep": "20270231",
+    "stores": [
+      { "name": "DARKSTORE PA RJ", "id": 1929 },
+      { "name": "Dr. Satamini Tijuca", "id": 1894 }
+    ]
+  },
+  {
+    "cep": "12420010",
+    "stores": [{ "name": "Pindamonhangaba", "id": 1485 }]
+  },
+  {
+    "cep": "01322000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "MARIA ANTONIA", "id": 1926 },
+      { "name": "Pedroso", "id": 1891 }
+    ]
+  },
+  {
+    "cep": "13026040",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Proença", "id": 1590 },
+      { "name": "Barão de Itapura", "id": 621 }
+    ]
+  },
+  {
+    "cep": "04617014",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Washington Luiz", "id": 141 },
+      { "name": "Padre Antônio", "id": 1889 },
+      { "name": "Santo Amaro", "id": 1791 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Brooklin", "id": 1895 },
+      { "name": "Vieira de Morais", "id": 1910 }
+    ]
+  },
+  {
+    "cep": "11410001",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Guarujá Puglisi", "id": 1852 },
+      { "name": "Guarujá Tejereba", "id": 722 }
+    ]
+  },
+  {
+    "cep": "70297400",
+    "stores": [
+      { "name": "MINI CD P.A DF", "id": 1950 },
+      { "name": "L2 SUL", "id": 1920 },
+      { "name": "W3", "id": 1870 }
+    ]
+  },
+  {
+    "cep": "60150161",
+    "stores": [
+      { "name": "São João", "id": 521 },
+      { "name": "Center Um", "id": 1911 },
+      { "name": "Fátima", "id": 1790 }
+    ]
+  },
+  {
+    "cep": "52020220",
+    "stores": [
+      { "name": "DARKSTORE PA PE", "id": 1973 },
+      { "name": "Rosa e Silva", "id": 661 }
+    ]
+  },
+  {
+    "cep": "05513300",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Morumbi", "id": 5 }
+    ]
+  },
+  {
+    "cep": "02011300",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Mandaqui", "id": 701 },
+      { "name": "Santana", "id": 1834 },
+      { "name": "Dr. César", "id": 1901 }
+    ]
+  },
+  {
+    "cep": "13084008",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Barão Geraldo", "id": 25 }
+    ]
+  },
+  {
+    "cep": "02040070",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Dr. César", "id": 1901 },
+      { "name": "Nova Cantareira", "id": 241 }
+    ]
+  },
+  {
+    "cep": "01317001",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "MARIA ANTONIA", "id": 1926 },
+      { "name": "Jd Paulista", "id": 61 }
+    ]
+  },
+  {
+    "cep": "05019011",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "CD", "id": 501 },
+      { "name": "Alfonso Bovero", "id": 181 },
+      { "name": "MARIA ANTONIA", "id": 1926 }
+    ]
+  },
+  {
+    "cep": "03310000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Tatuapé", "id": 221 },
+      { "name": "Anália Franco", "id": 1061 }
+    ]
+  },
+  {
+    "cep": "04555001",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Padre Antônio", "id": 1889 },
+      { "name": "Santo Amaro", "id": 1791 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Brooklin", "id": 1895 },
+      { "name": "Vieira de Morais", "id": 1910 }
+    ]
+  },
+  {
+    "cep": "22061000",
+    "stores": [
+      { "name": "DARKSTORE PA RJ", "id": 1929 },
+      { "name": "Siqueira Campos Copacabana", "id": 1892 },
+      { "name": "Paróquia Copacabana", "id": 1850 }
+    ]
+  },
+  { "cep": "58037000", "stores": [{ "name": "Bessa", "id": 1807 }] },
+  {
+    "cep": "04367050",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Washington Luiz", "id": 141 },
+      { "name": "João de Luca", "id": 1805 }
+    ]
+  },
+  {
+    "cep": "12246260",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Aquarius", "id": 1833 },
+      { "name": "S.J.C. Shopping", "id": 1041 }
+    ]
+  },
+  {
+    "cep": "22031070",
+    "stores": [
+      { "name": "DARKSTORE PA RJ", "id": 1929 },
+      { "name": "Siqueira Campos Copacabana", "id": 1892 },
+      { "name": "Paróquia Copacabana", "id": 1850 },
+      { "name": "Pompeu Loureiro Copacabana", "id": 1835 }
+    ]
+  },
+  {
+    "cep": "22640101",
+    "stores": [
+      { "name": "DARKSTORE PA RJ", "id": 1929 },
+      { "name": "Freeway Barra", "id": 1444 }
+    ]
+  },
+  {
+    "cep": "06709015",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Granja São Camilo", "id": 801 }
+    ]
+  },
+  { "cep": "18700110", "stores": [{ "name": "Avaré", "id": 1526 }] },
+  {
+    "cep": "22270000",
+    "stores": [
+      { "name": "DARKSTORE PA RJ", "id": 1929 },
+      { "name": "Botafogo Vol. da Pátria", "id": 1264 },
+      { "name": "Pompeu Loureiro Copacabana", "id": 1835 }
+    ]
+  },
+  {
+    "cep": "71205080",
+    "stores": [
+      { "name": "MINI CD P.A DF", "id": 1950 },
+      { "name": "Guará", "id": 1344 }
+    ]
+  },
+  {
+    "cep": "04115090",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Afonso Bráz", "id": 1831 },
+      { "name": "Ricardo Jafet", "id": 461 },
+      { "name": "Lavandisca", "id": 1801 },
+      { "name": "Vila Clementino", "id": 63 },
+      { "name": "Planalto Paulista", "id": 1609 }
+    ]
+  },
+  {
+    "cep": "41760000",
+    "stores": [{ "name": "Costa Azul", "id": 1021 }]
+  },
+  {
+    "cep": "24210445",
+    "stores": [
+      { "name": "DARKSTORE PA RJ", "id": 1929 },
+      { "name": "Ingá Niterói", "id": 721 }
+    ]
+  },
+  {
+    "cep": "05305011",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "CD", "id": 501 },
+      { "name": "Vila Leopoldina", "id": 821 }
+    ]
+  },
+  {
+    "cep": "04671090",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Sócrates", "id": 1803 },
+      { "name": "Washington Luiz", "id": 141 }
+    ]
+  },
+  {
+    "cep": "22231000",
+    "stores": [
+      { "name": "DARKSTORE PA RJ", "id": 1929 },
+      { "name": "Botafogo Vol. da Pátria", "id": 1264 },
+      { "name": "Barão De Itambi Botafogo", "id": 1266 },
+      { "name": "Pompeu Loureiro Copacabana", "id": 1835 }
+    ]
+  },
+  { "cep": "13630115", "stores": [] },
+  {
+    "cep": "04537002",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Afonso Bráz", "id": 1831 },
+      { "name": "Joaquim Floriano", "id": 361 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Lavandisca", "id": 1801 },
+      { "name": "Brooklin", "id": 1895 },
+      { "name": "Ibirapuera", "id": 1364 },
+      { "name": "Minuto Cachoeira", "id": 2169 }
+    ]
+  },
+  {
+    "cep": "11030600",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Bartolomeu de Gusmão", "id": 961 },
+      { "name": "São Vicente Itararé", "id": 1081 },
+      { "name": "Conselheiro Nébias", "id": 1898 },
+      { "name": "Epitácio Pessoa", "id": 741 }
+    ]
+  },
+  {
+    "cep": "11600000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "São Sebastião", "id": 1530 }
+    ]
+  },
+  {
+    "cep": "05023000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "CD", "id": 501 },
+      { "name": "Alfonso Bovero", "id": 181 },
+      { "name": "Pompéia", "id": 842 },
+      { "name": "MARIA ANTONIA", "id": 1926 }
+    ]
+  },
+  {
+    "cep": "11040000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Bartolomeu de Gusmão", "id": 961 },
+      { "name": "São Vicente Itararé", "id": 1081 },
+      { "name": "Conselheiro Nébias", "id": 1898 },
+      { "name": "Epitácio Pessoa", "id": 741 }
+    ]
+  },
+  {
+    "cep": "22640100",
+    "stores": [
+      { "name": "DARKSTORE PA RJ", "id": 1929 },
+      { "name": "Freeway Barra", "id": 1444 }
+    ]
+  },
+  {
+    "cep": "04028001",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Afonso Bráz", "id": 1831 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Lavandisca", "id": 1801 },
+      { "name": "Brooklin", "id": 1895 },
+      { "name": "Ibirapuera", "id": 1364 }
+    ]
+  },
+  {
+    "cep": "05676120",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Real Parque", "id": 122 }
+    ]
+  },
+  {
+    "cep": "06709150",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Granja Viana", "id": 22 }
+    ]
+  },
+  {
+    "cep": "04074010",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Afonso Bráz", "id": 1831 },
+      { "name": "Ana Rosa", "id": 1161 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Lavandisca", "id": 1801 },
+      { "name": "Planalto Paulista", "id": 1609 },
+      { "name": "Ibirapuera", "id": 1364 }
+    ]
+  },
+  {
+    "cep": "02405000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Mandaqui", "id": 701 },
+      { "name": "Dr. César", "id": 1901 },
+      { "name": "Augusto Tolle", "id": 1871 }
+    ]
+  },
+  {
+    "cep": "13105000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Souzas", "id": 24 }
+    ]
+  },
+  {
+    "cep": "02413100",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Mandaqui", "id": 701 },
+      { "name": "Dr. César", "id": 1901 }
+    ]
+  },
+  {
+    "cep": "22430220",
+    "stores": [
+      { "name": "DARKSTORE PA RJ", "id": 1929 },
+      { "name": "Leblon", "id": 481 }
+    ]
+  },
+  {
+    "cep": "11250000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Riviera São Lourenço", "id": 9 }
+    ]
+  },
+  {
+    "cep": "11440000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Guarujá Puglisi", "id": 1852 },
+      { "name": "Guarujá Tejereba", "id": 722 }
+    ]
+  },
+  {
+    "cep": "71925180",
+    "stores": [
+      { "name": "MINI CD P.A DF", "id": 1950 },
+      { "name": "Águas Claras", "id": 1869 }
+    ]
+  },
+  {
+    "cep": "03338020",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Tatuapé", "id": 221 },
+      { "name": "Anália Franco", "id": 1061 }
+    ]
+  },
+  {
+    "cep": "15015400",
+    "stores": [{ "name": "S. J Rio Pret Centro", "id": 561 }]
+  },
+  {
+    "cep": "74230042",
+    "stores": [
+      { "name": "Flamboyant", "id": 1569 },
+      { "name": "Vaca Brava", "id": 601 }
+    ]
+  },
+  {
+    "cep": "02512000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Casa Verde", "id": 861 },
+      { "name": "Dr. César", "id": 1901 }
+    ]
+  },
+  {
+    "cep": "22050002",
+    "stores": [
+      { "name": "DARKSTORE PA RJ", "id": 1929 },
+      { "name": "Siqueira Campos Copacabana", "id": 1892 },
+      { "name": "Paróquia Copacabana", "id": 1850 },
+      { "name": "Pompeu Loureiro Copacabana", "id": 1835 }
+    ]
+  },
+  {
+    "cep": "05059000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "CD", "id": 501 },
+      { "name": "Cerro Corá", "id": 261 }
+    ]
+  },
+  {
+    "cep": "15061768",
+    "stores": [{ "name": "S. J Rio Preto Damha", "id": 1830 }]
+  },
+  {
+    "cep": "17012055",
+    "stores": [{ "name": "Bauru Araujo Leite", "id": 1914 }]
+  },
+  {
+    "cep": "05717270",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Shopping Jd. Sul", "id": 761 },
+      { "name": "Panamby", "id": 1912 }
+    ]
+  },
+  {
+    "cep": "11444000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Guarujá Shopping Jequiti", "id": 1484 }
+    ]
+  },
+  {
+    "cep": "15025000",
+    "stores": [{ "name": "S. J Rio Pret Centro", "id": 561 }]
+  },
+  {
+    "cep": "02350000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Maria Amália", "id": 1792 }
+    ]
+  },
+  {
+    "cep": "17010250",
+    "stores": [
+      { "name": "Bauru Jd. Estoril", "id": 901 },
+      { "name": "Bauru Araujo Leite", "id": 1914 }
+    ]
+  },
+  {
+    "cep": "04042001",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Afonso Bráz", "id": 1831 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Lavandisca", "id": 1801 },
+      { "name": "Vila Clementino", "id": 63 },
+      { "name": "Planalto Paulista", "id": 1609 },
+      { "name": "Ibirapuera", "id": 1364 }
+    ]
+  },
+  {
+    "cep": "05461000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "CD", "id": 501 }
+    ]
+  },
+  { "cep": "18600200", "stores": [{ "name": "Botucatu", "id": 1524 }] },
+  {
+    "cep": "09710060",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "S.B. Campo Sta. Filomena", "id": 681 }
+    ]
+  },
+  {
+    "cep": "11065200",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Bartolomeu de Gusmão", "id": 961 },
+      { "name": "José Menino", "id": 1913 },
+      { "name": "São Vicente Itararé", "id": 1081 },
+      { "name": "Conselheiro Nébias", "id": 1898 }
+    ]
+  },
+  {
+    "cep": "04515010",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Afonso Bráz", "id": 1831 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Lavandisca", "id": 1801 },
+      { "name": "Clodomiro Amazonas Itaim Bibi", "id": 81 },
+      { "name": "Brooklin", "id": 1895 },
+      { "name": "Ibirapuera", "id": 1364 }
+    ]
+  },
+  {
+    "cep": "04089015",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Afonso Bráz", "id": 1831 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Lavandisca", "id": 1801 },
+      { "name": "Brooklin", "id": 1895 },
+      { "name": "Ibirapuera", "id": 1364 }
+    ]
+  },
+  {
+    "cep": "02013004",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Mandaqui", "id": 701 },
+      { "name": "Dr. César", "id": 1901 }
+    ]
+  },
+  {
+    "cep": "04563003",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Padre Antônio", "id": 1889 },
+      { "name": "Santo Amaro", "id": 1791 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Brooklin", "id": 1895 },
+      { "name": "Ibirapuera", "id": 1364 },
+      { "name": "Vieira de Morais", "id": 1910 }
+    ]
+  },
+  {
+    "cep": "12020070",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Taubaté Independência", "id": 1384 },
+      { "name": "TAUBATE CENTRO", "id": 1922 }
+    ]
+  },
+  {
+    "cep": "09090060",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Santo André Figueiras", "id": 1304 }
+    ]
+  },
+  {
+    "cep": "60811341",
+    "stores": [{ "name": "Buena Vista", "id": 1102 }]
+  },
+  {
+    "cep": "24230251",
+    "stores": [
+      { "name": "DARKSTORE PA RJ", "id": 1929 },
+      { "name": "Ingá Niterói", "id": 721 },
+      { "name": "Icaraí Niterói", "id": 1265 }
+    ]
+  },
+  {
+    "cep": "05405200",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "CD", "id": 501 },
+      { "name": "Teodoro Sampaio", "id": 10 }
+    ]
+  },
+  {
+    "cep": "13482220",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Limeira", "id": 2109 }
+    ]
+  },
+  {
+    "cep": "13334085",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Indaiatuba", "id": 4 }
+    ]
+  },
+  {
+    "cep": "13042105",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Proença", "id": 1590 },
+      { "name": "Barão de Itapura", "id": 621 },
+      { "name": "Parque Prado", "id": 1806 }
+    ]
+  },
+  { "cep": "19907510", "stores": [{ "name": "Ourinhos", "id": 1504 }] },
+  {
+    "cep": "05716070",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Panamby", "id": 1912 },
+      { "name": "Shopping Jd. Sul", "id": 761 }
+    ]
+  },
+  { "cep": "17501090", "stores": [{ "name": "Marilia", "id": 1528 }] },
+  {
+    "cep": "06541005",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Alphaville II Residencial", "id": 102 },
+      { "name": "Tamboré   ", "id": 21 },
+      { "name": "Alphaville", "id": 1804 }
+    ]
+  },
+  {
+    "cep": "05051000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "CD", "id": 501 },
+      { "name": "Alfonso Bovero", "id": 181 },
+      { "name": "Cerro Corá", "id": 261 },
+      { "name": "Vila Romana", "id": 1802 }
+    ]
+  },
+  {
+    "cep": "13073300",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Proença", "id": 1590 },
+      { "name": "Barão de Itapura", "id": 621 }
+    ]
+  },
+  {
+    "cep": "04308001",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Jabaquara", "id": 641 },
+      { "name": "Planalto Paulista", "id": 1609 },
+      { "name": "João de Luca", "id": 1805 }
+    ]
+  },
+  {
+    "cep": "04005001",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Afonso Bráz", "id": 1831 },
+      { "name": "Lavandisca", "id": 1801 },
+      { "name": "Jd Paulista", "id": 61 },
+      { "name": "Ibirapuera", "id": 1364 }
+    ]
+  },
+  {
+    "cep": "04144000",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Afonso Bráz", "id": 1831 },
+      { "name": "Lavandisca", "id": 1801 },
+      { "name": "Vila Clementino", "id": 63 },
+      { "name": "Planalto Paulista", "id": 1609 }
+    ]
+  },
+  {
+    "cep": "04627001",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Washington Luiz", "id": 141 },
+      { "name": "Padre Antônio", "id": 1889 },
+      { "name": "Santo Amaro", "id": 1791 },
+      { "name": "Vieira de Morais", "id": 1910 }
+    ]
+  },
+  {
+    "cep": "04537002",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "Afonso Bráz", "id": 1831 },
+      { "name": "Joaquim Floriano", "id": 361 },
+      { "name": "Maracatins", "id": 62 },
+      { "name": "Lavandisca", "id": 1801 },
+      { "name": "Brooklin", "id": 1895 },
+      { "name": "Ibirapuera", "id": 1364 },
+      { "name": "Minuto Cachoeira", "id": 2169 }
+    ]
+  },
+  {
+    "cep": "64048400",
+    "stores": [
+      { "name": "São Cristovão", "id": 1101 },
+      { "name": "DOM SEVERINO", "id": 1893 },
+      { "name": "Frei Serafim I", "id": 1896 }
+    ]
+  },
+  {
+    "cep": "09541001",
+    "stores": [
+      { "name": "CD", "id": 501 },
+      { "name": "São Caetano do Sul", "id": 541 },
+      { "name": "PA Fresh José Beneditti", "id": 2089 }
+    ]
+  }
+]
