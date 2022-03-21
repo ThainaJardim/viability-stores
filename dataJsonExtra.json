@@ -1,0 +1,414 @@
+[
+    {
+      "NOME DA LOJA": "Extra Santa Cecília (São Paulo)",
+      "CEP": "01150000"
+    },
+    {
+      "NOME DA LOJA": "Extra Aparecida (Santos)",
+      "CEP": "11025003"
+    },
+    {
+      "NOME DA LOJA": "Extra (Praia Grande)",
+      "CEP": "11700020"
+    },
+    {
+      "NOME DA LOJA": "Extra Penha de França (São Paulo)",
+      "CEP": "03635001"
+    },
+    {
+      "NOME DA LOJA": "Extra Parque Continental (São Paulo)",
+      "CEP": "05324110"
+    },
+    {
+      "NOME DA LOJA": "Extra Alto da Mooca (São Paulo)",
+      "CEP": "03180001"
+    },
+    {
+      "NOME DA LOJA": "Extra Rego Freitas (São Paulo)",
+      "CEP": "01220010"
+    },
+    {
+      "NOME DA LOJA": "Extra Cambuci (São Paulo)",
+      "CEP": "01523010"
+    },
+    {
+      "NOME DA LOJA": "Extra Osasco Hirante Sanazar",
+      "CEP": "06036007"
+    },
+    {
+      "NOME DA LOJA": "Extra (Teresina)",
+      "CEP": "64019870"
+    },
+    {
+      "NOME DA LOJA": "Extra (Carapicuíba)",
+      "CEP": "06310240"
+    },
+    {
+      "NOME DA LOJA": "Extra Pedreira (Santos)",
+      "CEP": "11075001"
+    },
+    {
+      "NOME DA LOJA": "Extra Curuçá (São Paulo)",
+      "CEP": "02120000"
+    },
+    {
+      "NOME DA LOJA": "Extra Dutra (Guarulhos)",
+      "CEP": "07042040"
+    },
+    {
+      "NOME DA LOJA": "Extra Estrada da Pedreira (São Paulo)",
+      "CEP": "08210230"
+    },
+    {
+      "NOME DA LOJA": "Extra Caxanga (Pernambuco)",
+      "CEP": "50731000"
+    },
+    {
+      "NOME DA LOJA": "Extra Boa Viagem (Pernambuco)",
+      "CEP": "51021020"
+    },
+    {
+      "NOME DA LOJA": "Extra Espinheiro (Pernambuco)",
+      "CEP": "52021180"
+    },
+    {
+      "NOME DA LOJA": "Extra Cocaia (Guarulhos)",
+      "CEP": "07130000"
+    },
+    {
+      "NOME DA LOJA": "Extra Super Rodoviária (Fortaleza)",
+      "CEP": "60411260"
+    },
+    {
+      "NOME DA LOJA": "Extra São Cristovão (Rio de Janeiro)",
+      "CEP": "20910060"
+    },
+    {
+      "NOME DA LOJA": "Extra Praia Grande",
+      "CEP": "11702200"
+    },
+    {
+      "NOME DA LOJA": "Extra (São João de Meriti)",
+      "CEP": "25515270"
+    },
+    {
+      "NOME DA LOJA": "Extra Vila Isabel",
+      "CEP": "20560000"
+    },
+    {
+      "NOME DA LOJA": "Extra Largo Do Machado (Rio de Janeiro)",
+      "CEP": "22220001"
+    },
+    {
+      "NOME DA LOJA": "Extra Rod Amaral Peixoto (Rio das Ostras)",
+      "CEP": "28890000"
+    },
+    {
+      "NOME DA LOJA": "Extra Sacomã",
+      "CEP": "04280010"
+    },
+    {
+      "NOME DA LOJA": "Extra Campo Belo",
+      "CEP": "04617006"
+    },
+    {
+      "NOME DA LOJA": "Extra Belém (São Paulo)",
+      "CEP": "03057040"
+    },
+    {
+      "NOME DA LOJA": "Extra Vila Mariana (São Paulo)",
+      "CEP": "04010000"
+    },
+    {
+      "NOME DA LOJA": "Extra Bosque da Saúde (São Paulo)",
+      "CEP": "04136000"
+    },
+    {
+      "NOME DA LOJA": "Extra Av. do Cursino (São Paulo)",
+      "CEP": "04132002"
+    },
+    {
+      "NOME DA LOJA": "Extra Sabará (São Paulo)",
+      "CEP": "04447020"
+    },
+    {
+      "NOME DA LOJA": "Extra (Diadema)",
+      "CEP": "09951550"
+    },
+    {
+      "NOME DA LOJA": "Extra Antônio Piranga (Diadema)",
+      "CEP": "09911160"
+    },
+    {
+      "NOME DA LOJA": "Extra Santana (São Paulo)",
+      "CEP": "02430000"
+    },
+    {
+      "NOME DA LOJA": "Extra Olario (São Paulo)",
+      "CEP": "21021522"
+    },
+    {
+      "NOME DA LOJA": "Extra Vila Prudente (São Paulo)",
+      "CEP": "03156000"
+    },
+    {
+      "NOME DA LOJA": "Extra (Atibaia)",
+      "CEP": "12942530"
+    },
+    {
+      "NOME DA LOJA": "Extra Casqueiro (Cubatão)",
+      "CEP": "11533000"
+    },
+    {
+      "NOME DA LOJA": "Extra Bernardino de Campos (Santos)",
+      "CEP": "11065001"
+    },
+    {
+      "NOME DA LOJA": "Extra Areia Branca (Santos)",
+      "CEP": "11085202"
+    },
+    {
+      "NOME DA LOJA": "Extra Pedro Lessa (Santos)",
+      "CEP": "11025000"
+    },
+    {
+      "NOME DA LOJA": "Extra Emabré (Santos)",
+      "CEP": "11020000"
+    },
+    {
+      "NOME DA LOJA": "Extra Centro (Peruíbe)",
+      "CEP": "11750000"
+    },
+    {
+      "NOME DA LOJA": "Extra (Praia Grande)",
+      "CEP": "11701500"
+    },
+    {
+      "NOME DA LOJA": "Extra Presidente Wilson (São Vicente)",
+      "CEP": "11320001"
+    },
+    {
+      "NOME DA LOJA": "Extra Rudge Ramos (São Bernardo do Campo)",
+      "CEP": "09611000"
+    },
+    {
+      "NOME DA LOJA": "Extra Pirituba (São Paulo)",
+      "CEP": "02919100"
+    },
+    {
+      "NOME DA LOJA": "Extra Aeroporto (São Paulo)",
+      "CEP": "04355000"
+    },
+    {
+      "NOME DA LOJA": "Extra (Itapecerica da Serra)",
+      "CEP": "05858000"
+    },
+    {
+      "NOME DA LOJA": "Extra Carneiro da Cunha (São Paulo)",
+      "CEP": "04144000"
+    },
+    {
+      "NOME DA LOJA": "Extra Ocian (Praia Grande)",
+      "CEP": "11704520"
+    },
+    {
+      "NOME DA LOJA": "Extra Pres. Kennedy (Praia Grande)",
+      "CEP": "13405011"
+    },
+    {
+      "NOME DA LOJA": "Extra Vila Mogi Moderno (Mogi das Cruzes)",
+      "CEP": "08766000"
+    },
+    {
+      "NOME DA LOJA": "Extra Cupecê (São Paulo)",
+      "CEP": "04366001"
+    },
+    {
+      "NOME DA LOJA": "Extra Vila São José (São Paulo)",
+      "CEP": "04836130"
+    },
+    {
+      "NOME DA LOJA": "Extra Teotônio Vilela (São Paulo)",
+      "CEP": "04888190"
+    },
+    {
+      "NOME DA LOJA": "Extra Piraporinha (São Paulo)",
+      "CEP": "04920005"
+    },
+    {
+      "NOME DA LOJA": "Extra (Itapecerica da Serra)",
+      "CEP": "06850000"
+    },
+    {
+      "NOME DA LOJA": "Extra Jardim São Bernardo (São Paulo)",
+      "CEP": "04844610"
+    },
+    {
+      "NOME DA LOJA": "Extra Grajaú (São Paulo)",
+      "CEP": "04846010"
+    },
+    {
+      "NOME DA LOJA": "Extra Fátima (Rio de Janeiro)",
+      "CEP": "20230015"
+    },
+    {
+      "NOME DA LOJA": "Extra Rio Comprido(Rio de Janeiro)",
+      "CEP": "20250450"
+    },
+    {
+      "NOME DA LOJA": "Extra (Petrópolis)",
+      "CEP": "25645320"
+    },
+    {
+      "NOME DA LOJA": "Extra Jaraguá (São Paulo)",
+      "CEP": "02991000"
+    },
+    {
+      "NOME DA LOJA": "Extra Vila Arcadia (São Paulo)",
+      "CEP": "02924000"
+    },
+    {
+      "NOME DA LOJA": "Extra Macaé II (Macaé)",
+      "CEP": "27937590"
+    },
+    {
+      "NOME DA LOJA": "Extra Jardim Ângela (São Paulo)",
+      "CEP": "04948030"
+    },
+    {
+      "NOME DA LOJA": "Extra Macaé I (Macaé)",
+      "CEP": "27910340"
+    },
+    {
+      "NOME DA LOJA": "Extra (Araruama)",
+      "CEP": "28970000"
+    },
+    {
+      "NOME DA LOJA": "Extra Vila Moraes (São Paulo)",
+      "CEP": "04165001"
+    },
+    {
+      "NOME DA LOJA": "Extra (Santo André)",
+      "CEP": "09190360"
+    },
+    {
+      "NOME DA LOJA": "Extra Inoc Seráfico (Carapicuíba)",
+      "CEP": "06380021"
+    },
+    {
+      "NOME DA LOJA": "Extra Taipas (São Paulo)",
+      "CEP": "02810000"
+    },
+    {
+      "NOME DA LOJA": "Extra (Guarujá)",
+      "CEP": "11440001"
+    },
+    {
+      "NOME DA LOJA": "Extra Vila dos Remedios (São Paulo)",
+      "CEP": "05107001"
+    },
+    {
+      "NOME DA LOJA": "Extra Morro Grande (São Paulo)",
+      "CEP": "02811000"
+    },
+    {
+      "NOME DA LOJA": "Extra Helena Maria (Osasco)",
+      "CEP": "06260070"
+    },
+    {
+      "NOME DA LOJA": "Extra Boa Vista (São Caetano do Sul)",
+      "CEP": "09572300"
+    },
+    {
+      "NOME DA LOJA": "Extra Conselheiro Furtado (São Paulo)",
+      "CEP": "01511001"
+    },
+    {
+      "NOME DA LOJA": "Extra Vila Nova Cachoeirinha (São Paulo)",
+      "CEP": "02861190"
+    },
+    {
+      "NOME DA LOJA": "Extra Demarchi (São Bernardo do Campo)",
+      "CEP": "09820000"
+    },
+    {
+      "NOME DA LOJA": "Extra Praia Pernambuco (Guarujá)",
+      "CEP": "11443411"
+    },
+    {
+      "NOME DA LOJA": "Extra Itaquera (São Paulo)",
+      "CEP": "08210590"
+    },
+    {
+      "NOME DA LOJA": "Extra Assis Ribeiro (São Paulo)",
+      "CEP": "03717000"
+    },
+    {
+      "NOME DA LOJA": "Extra (Mongaguá)",
+      "CEP": "11730000"
+    },
+    {
+      "NOME DA LOJA": "Extra (Itanhaém)",
+      "CEP": "11740000"
+    },
+    {
+      "NOME DA LOJA": "Extra Primitiva Vianco (Osasco)",
+      "CEP": "06016004"
+    },
+    {
+      "NOME DA LOJA": "Extra Boiçucanga (São Sebastião)",
+      "CEP": "11618107"
+    },
+    {
+      "NOME DA LOJA": "Extra (Olinda)",
+      "CEP": "53030010"
+    },
+    {
+      "NOME DA LOJA": "Extra Derby (Pernambuco)",
+      "CEP": "50070070"
+    },
+    {
+      "NOME DA LOJA": "Extra Bancários (João Pessoa)",
+      "CEP": "58052200"
+    },
+    {
+      "NOME DA LOJA": "Extra Liberdade II (São Paulo)",
+      "CEP": "01502000"
+    },
+    {
+      "NOME DA LOJA": "Extra Shopping Campo Limpo (São Paulo)",
+      "CEP": "05777001"
+    },
+    {
+      "NOME DA LOJA": "Extra (Armação de Búzios)",
+      "CEP": "25950000"
+    },
+    {
+      "NOME DA LOJA": "Extra Frei Caneca (São Paulo)",
+      "CEP": "01307001"
+    },
+    {
+      "NOME DA LOJA": "Extra Vila Formosa (São Paulo)",
+      "CEP": "03363000"
+    },
+    {
+      "NOME DA LOJA": "Extra (Campos dos Goytacazes)",
+      "CEP": "28013140"
+    },
+    {
+      "NOME DA LOJA": "Extra Irajá (Rio de Janeiro)",
+      "CEP": "21230354"
+    },
+    {
+      "NOME DA LOJA": "Extra (São Gonçalo)",
+      "CEP": "24420005"
+    },
+    {
+      "NOME DA LOJA": "Extra (Teresópolis)",
+      "CEP": "25953007"
+    },
+    {
+      "NOME DA LOJA": "Extra Cabo Frio II (Cabo Frio)",
+      "CEP": "28909001"
+    }
+  ]
